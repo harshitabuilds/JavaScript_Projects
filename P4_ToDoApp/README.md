@@ -49,11 +49,17 @@ No additional installation required.
 
 ---
 
+## 📂 Project Structure
+- index.html
+- style.css
+- script.js
+
+---
 ## 👩‍💻 Author
 
 Harshita Mishra  
 Frontend Developer
 
 
-## 📂 Project Structure
+
 
